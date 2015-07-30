@@ -1,0 +1,1 @@
+{"C:\\webprojects\\reacting\\src\\gulpfile.js":{"sha1":"cefe64c5421ede1e1b88a88f90d628280f42c706","tasks":{"index":{"name":"index","dependencies":""},"compile":{"name":"compile","dependencies":""},"browser-sync":{"name":"browser-sync","dependencies":""},"default":{"name":"default","dependencies":"browser-sync compile index"}}}}
